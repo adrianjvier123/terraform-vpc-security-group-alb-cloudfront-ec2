@@ -1,0 +1,1 @@
+variable "ec2_web_page_totem_id" {}
